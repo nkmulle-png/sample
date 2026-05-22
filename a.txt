@@ -1,8 +1,1 @@
-Hi hello how r u
-jkl
-3rd time
-reset
-pp
-working
-fixed
-gitlab pipeline issue donr
+removed all ,working
