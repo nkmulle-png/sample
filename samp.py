@@ -1,9 +1,9 @@
 def calculate_discount(price, user_type):
     """Calculate discount based on user type."""
     if user_type == "premium":
-        discount = 0.20
+        discount = 0.30
     elif user_type == "standard":
-        discount = 0.10
+        discount = 0.12
     else:
         discount = 0.05
 
