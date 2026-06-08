@@ -21,3 +21,4 @@ def process_order(order_id, items):
     total = sum(item["price"] * item["qty"] for item in items)
     print(f"Order {order_id} processed. Total: {total}")
     return total
+Helllo jii
