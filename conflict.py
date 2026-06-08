@@ -1,2 +1,2 @@
-x = "original"
+x = "github_version"
 print(x)
