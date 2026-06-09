@@ -1,2 +1,2 @@
 # test.py
-color = "blue"
+color = "green"
