@@ -1,1 +1,1 @@
-result=data+9
+result=data-777
