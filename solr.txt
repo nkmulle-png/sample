@@ -1,3 +1,4 @@
 solr
 solr-1
 solr-22
+solr33
